@@ -12,6 +12,7 @@ from bank_campaign_model_training import (
 )
 import pandas as pd
 
+
 @pytest.fixture
 def dummy_data():
     # Prepare dummy data for testing
